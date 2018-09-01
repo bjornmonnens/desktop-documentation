@@ -21,6 +21,14 @@
 * Teamviewer
 * Monosnap (screencapture)
 
+### Chrome plugins
+* 1 password
+* Metamsk
+* Pocket
+* React Developer Tools
+* Redux
+
+
 ### WX
 * Total Commander (improved file manager)
 * mRemote (access remote systems)
@@ -30,5 +38,6 @@
 * Divvy (Screen placement)
 * iTerm (Terminal)
 * Tunnelblick (VPN)
+* zsh
 
 ### Linux
